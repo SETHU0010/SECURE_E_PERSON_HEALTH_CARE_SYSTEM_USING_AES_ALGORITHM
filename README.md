@@ -67,8 +67,3 @@ Implement a secure EHR system using AES encryption for confidentiality and Ferne
 - **Language:** Python
 - **Platform:** IDLE Python
 
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/SETHU0010/secure-healthcare-records.git
