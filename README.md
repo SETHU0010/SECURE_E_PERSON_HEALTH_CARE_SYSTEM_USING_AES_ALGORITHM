@@ -1,5 +1,4 @@
 # SECURE_E_PERSON_HEALTH_CARE_SYSTEM_USING_AES_ALGORITHM
-# Secure Electronic Health Records System
 
 ## Overview
 
