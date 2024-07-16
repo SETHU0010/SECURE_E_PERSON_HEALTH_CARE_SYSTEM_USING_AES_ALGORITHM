@@ -1,10 +1,10 @@
-# SECURE_E_PERSON_HEALTH_CARE_SYSTEM_USING_AES_ALGORITHM
+# SECURE_E_PERSON_HEALTH_CARE_SYSTEM_USING_AES_ALGORITHM 🔒💉
 
-## Overview
+## Overview 📋
 
 A secure EHR system using AES encryption to protect patient data from unauthorized access while allowing swift access for authorized users.
 
-## Keywords
+## Keywords 📝
 
 - **Electronic Medical Records**
 - **E-Health Care Systems**
@@ -13,19 +13,19 @@ A secure EHR system using AES encryption to protect patient data from unauthoriz
 - **Symmetric Encryption**
 - **AES**
 
-## Motivation
+## Motivation 🌟
 
 Increase in data breaches in medical systems necessitates a secure solution for protecting patient data.
 
-## Problem Statement
+## Problem Statement ❗
 
 Manual data management in healthcare leads to errors and potential data exposure. A secure and efficient system for electronic health records is needed.
 
-## Solution
+## Solution 💡
 
 Implement a secure EHR system using AES encryption for confidentiality and Fernet encryption for additional security features like message authentication.
 
-## Literature Survey
+## Literature Survey 📚
 
 | **Paper Title** | **Authors & Year** | **Methodology** | **Merits** | **Limitations** |
 |:---------------:|:------------------:|:---------------:|:----------:|:---------------:|
@@ -40,7 +40,7 @@ Implement a secure EHR system using AES encryption for confidentiality and Ferne
 | A Hybrid Data Access Control Using AES and RSA For Ensuring Privacy In Electronic Healthcare Records | S. Kanaga Suba Raja et al. (2020) | AES and RSA Algorithms | Effective data access control | RSA slow for large data |
 | Ensuring Privacy and Security in Health | Jayneel Vora et al. (2018) | AT&T Scheme | Low-cost access control | Weak communication protocol |
 
-## Proposed Model
+## Proposed Model 📐
 
 **AES Algorithm:**
 - **Phases:** Initial Round, Main Rounds, Final Round
@@ -55,14 +55,13 @@ Implement a secure EHR system using AES encryption for confidentiality and Ferne
 **Decryption Process:**
 - Reverses encryption steps.
 
-## Functional Architecture
+## Functional Architecture 🏢
 
 - **Doctor Module:** Access and update patient records.
 - **Dean Module:** Manage access controls.
 - **Patient Module:** Access health records.
 
-## Tools & Platform
+## Tools & Platform 🛠️
 
 - **Language:** Python
 - **Platform:** IDLE Python
-
